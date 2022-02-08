@@ -2,7 +2,7 @@
 This is a website of blood bank management.
 
 Through this website people who want to donate blood can register and become a donor.
-People who want particular blood in particular area,they can search fo it after login.
+People who want particular blood in particular area,they can search for it after login.
 After clicking on search button user can see people of that blood in that particular state ready to donate blood.
 If donor has already donated blood and there has not been 3 months after donation than the donor's information won't be displayed.
 
